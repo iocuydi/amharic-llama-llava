@@ -1,7 +1,5 @@
 # amharic-llama-llava
 
-## Amharic LLAMA/LLAVA
-
 Pretraining and finetuning scripts for Amharic LLaMA adapted from:
 
 https://github.com/ymcui/Chinese-LLaMA-Alpaca
