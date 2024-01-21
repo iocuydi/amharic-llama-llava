@@ -3,6 +3,7 @@
 Pretraining and finetuning scripts for Amharic LLaMA adapted from:
 
 https://github.com/ymcui/Chinese-LLaMA-Alpaca
+
 https://github.com/facebookresearch/llama-recipes
 
 Additional training, eval, translation, and data processing scripts to be released, along with datasets
