@@ -20,10 +20,15 @@ Amharic LLaVA requires this CLIP model: https://huggingface.co/openai/clip-vit-l
 Associated datasets:
 
 Amharic Blip Laion: https://huggingface.co/datasets/iocuydi/amharic-blip-laion
+
 Amharic Dolly: https://huggingface.co/datasets/iocuydi/amharic-dolly-15k
+
 Amharic Alpaca: https://huggingface.co/datasets/iocuydi/amharic-alpaca
+
 Amharic Visual Instruction Tuning: https://huggingface.co/datasets/iocuydi/amharic-visual-instruction-tuning
+
 Amharic RedPajama Synthetic (pretraining, partial): https://huggingface.co/datasets/iocuydi/amharic-redpajama-synthetic
+
 Amharic OASST1 Pruned: https://huggingface.co/datasets/iocuydi/amharic-OASST1-pruned
 
 More info
