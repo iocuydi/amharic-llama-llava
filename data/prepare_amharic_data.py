@@ -137,9 +137,10 @@ def translate_parquet_file(parquet_file_path, output_destination, checkpoint_for
 
     for index, row in data.iterrows():
 
-        if i <= 45000:
-            i += 1
-            continue
+        # issue happened during translation at 45k, start at 45k
+        # if i <= 45000:
+        #    i += 1
+        #    continue
         #abf = input(row)
 
         assert characters_translated < 37000000
